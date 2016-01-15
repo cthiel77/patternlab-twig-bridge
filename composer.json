@@ -1,7 +1,7 @@
 {
-    "name": "symfony/twig-bridge",
+    "name": "mytoysgroup/patternlab-twig-bridge",
     "type": "symfony-bridge",
-    "description": "Symfony Twig Bridge",
+    "description": "Dummy Implementation of Symfony Twig Bridge for Pattern Lab",
     "keywords": [],
     "homepage": "https://symfony.com",
     "license": "MIT",
