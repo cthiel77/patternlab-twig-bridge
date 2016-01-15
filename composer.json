@@ -1,18 +1,21 @@
 {
     "name": "mytoysgroup/patternlab-twig-bridge",
     "type": "symfony-bridge",
-    "description": "Dummy Implementation of Symfony Twig Bridge for Pattern Lab",
+    "description": "Dummy Implementation of Symfony Twig Bridge for Pattern Lab; Forked from symfony/twig-bridge",
     "keywords": [],
-    "homepage": "https://symfony.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
+            "name": "Ingo Beyerlein",
+            "email": "ingo.beyerlein@mytoys.de"
         },
         {
-            "name": "Symfony Community",
-            "homepage": "https://symfony.com/contributors"
+            "name": "Mirko Zseby",
+            "email": "mirko.zseby@mytoys.de"
+        },
+        {
+            "name": "myToys GmbH, Shop IT",
+            "homepage": "http://mytoys.de/"
         }
     ],
     "require": {
